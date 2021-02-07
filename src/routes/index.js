@@ -7,7 +7,8 @@ import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
-  '/': Home,
+  // '/': Home,
+  '/home': Home,
   '/:id': Character,
   '/about': About,
   '/..': '',
