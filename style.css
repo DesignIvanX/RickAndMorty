@@ -53,7 +53,6 @@ a{
   margin: 0 auto;
 }
 .Characters-card {
-  text-decoration: none;
   box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
   border-radius: 5px;
   margin: 0 0 20px 0;
@@ -93,7 +92,6 @@ a{
   justify-content: space-between;
 }
 .Characters-item a {
-  text-decoration: none;
   color: #026C86;
 }
 .Main-loading {
