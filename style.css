@@ -24,13 +24,14 @@ a{
   top: 0;
 }
 .Header a { 
-  margin: 0 10px;
-  font-size: 0.9rem;
+  margin: 0 20px 0 0;
+  font-size: 1.2rem;
   color: #ffffff;
 }
 .Header h1 a { 
+  margin-left: 5px;
   line-height: 55px;
-  font-size: 1rem;
+  font-size: 1.6rem;
   color: #ffffff;
 }
 .Main {
