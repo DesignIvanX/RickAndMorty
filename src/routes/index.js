@@ -7,7 +7,7 @@ import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
-  '/RickAndMorty/': Home,
+  '/home': Home,
   '/:id': Character,
   '/about': About,
   '/..': '',
